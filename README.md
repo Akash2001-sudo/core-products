@@ -55,7 +55,3 @@ npm start
 
 
 
-4EKWShz87NaHbclH
-akp18129_db_user
-
-27.4.216.236
